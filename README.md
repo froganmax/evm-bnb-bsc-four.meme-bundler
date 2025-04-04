@@ -3,7 +3,7 @@
 ## Contact
 https://t.me/frogansol
 
-## BNB Bundler Example
+## Pancake BNB Bundler Transaction Example
 https://bscscan.com/tx/0xa94e57c233eca767fc104f7333987687ded40b37b29fc1e785c69e795be5dc05
 
 https://bscscan.com/tx/0x678185d96d588b87ce63d811992d6fb52d3ad1b786f099d5cc6e0473a8c60fd8
